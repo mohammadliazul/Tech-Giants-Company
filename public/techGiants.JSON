@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Amazon",
+        "ceo": "Andy Jassy",
+        "founded": "05-07-1994",
+        "founders": "Jeff Bezos",
+        "stockPrice": 3425.52,
+        "img": "https://thumbs.dreamstime.com/b/july-palo-alto-ca-usa-amazon-logo-facade-one-their-office-buildings-located-silicon-valley-san-july-palo-alto-ca-154948655.jpg"
+    },
+    {
+        "name": "Apple",
+        "ceo": "Tim Cook",
+        "founded": "01-04-1976",
+        "founders": "Steve Jobs",
+        "stockPrice": 146.92,
+        "img": "https://www.incimages.com/uploaded_files/image/1920x1080/apple-store-5th-ave_36906.jpg"
+    },
+    {
+        "name": "Microsoft",
+        "ceo": "Satya Nadella",
+        "founded": "04-04-1975",
+        "founders": "Bill Gates",
+        "stockPrice": 299.35,
+        "img": "https://ciotechie.com/wp-content/uploads/2019/03/Microsoft-Researchers_Introduce-SubseasonalRodeo-A-New-Machine-Learning-Based-Climate-Forecasting-Model.jpg"
+    },
+    {
+        "name": "Alibaba",
+        "ceo": "Daniel Zhang",
+        "founded": "04-04-1999",
+        "founders": "Jack Ma",
+        "stockPrice": 144.3,
+        "img": "https://www.goforwarder.com/wp-content/uploads/2019/08/alibaba.jpg"
+    },
+    {
+        "name": "Google",
+        "ceo": "Sundar Pichai",
+        "founded": "04-09-1998",
+        "founders": "Larry Page",
+        "stockPrice": 181.7,
+        "img": "https://thumbs.dreamstime.com/b/may-silicone-valley-california-google-headquarters-hq-silicone-valley-california-may-silicone-valley-california-google-99491079.jpg"
+    },
+    {
+        "name": "Tesla",
+        "ceo": "Elon Musk",
+        "founded": "01-07-2003",
+        "founders": "Elon Musk",
+        "stockPrice": 374.39,
+        "img": "https://skillroads.com/images/blog//Tesla_Red_Hook.jpg"
+    },
+    {
+        "name": "Facebook",
+        "ceo": "Sheryl Sandberg",
+        "founded": "04-02-2004",
+        "founders": "Mark Zuckerberg",
+        "stockPrice": 352.96,
+        "img": "https://markedium.com/wp-content/uploads/2019/09/videoblocks-editorial-facebook-logo-on-glass-building_sbgx9n9ox_thumbnail-full01.png"
+    },
+    {
+        "name": "Samsung",
+        "ceo": "Kim Hyun Suk",
+        "founded": "13-01-1969",
+        "founders": "Lee Byung-chul",
+        "stockPrice": 200.6,
+        "img": "https://www.pymnts.com/wp-content/uploads/2017/07/samsungelectronics.jpg"
+    },
+    {
+        "name": "Twitter",
+        "ceo": "Evan Clark Williams",
+        "founded": "21-03-2006",
+        "founders": "Jack Dorsey",
+        "stockPrice": 135.3,
+        "img": "https://techcrunch.com/wp-content/uploads/2014/07/twitter-nyse.jpg"
+    }
+]
